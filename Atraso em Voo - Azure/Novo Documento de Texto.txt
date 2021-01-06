@@ -1,0 +1,3 @@
+exercicio do curso da azure.
+
+https://docs.microsoft.com/pt-br/learn/modules/predict-flight-delays-with-python/1-create-notebook-and-import-data
